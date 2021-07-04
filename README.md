@@ -113,7 +113,7 @@ print(in)
 </a>
 
 <a href="https://github.com/priyadikshit911/FoodShala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyadikshit911&repo=FoodShala&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyadikshit911&repo=facilitator_dashboard&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/priyadikshit911/profile-master">
